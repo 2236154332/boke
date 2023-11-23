@@ -1,8 +1,10 @@
 <p align="center">
     <h1 align="center"><a href="https://github.com/2236154332/boke.github.io">Tian's blog</a></h1>
     <p align="center">在校大学生，一个弱弱的菜鸡，编程爱好者 🤞</p>
-    <p align="center">项目源于<a href="https://github.com/pudongping/pudongping.github.io">Alex's blog</p>
+    <p>项目源于<a href="https://github.com/pudongping/pudongping.github.io">Alex's blog</p>
 </p>
+
+        
 ## 前言
 偶然在公众号文章看到搭建自己的博客这样一篇文章，点进去后感觉非常好看，于是便想自己搭建一个，通过GitHub大佬的一个开源项目，便有了自己的这个博客。
 需要的搭建的文章开头已经标注出来了，大家可以学习学习，我是小白就不多说了。
@@ -16,9 +18,8 @@
 - 使用的 hexo 版本为：5.4.0
 - 使用的 hexo-theme-matery 皮肤版本为：v2.0.0
 - 其他的依赖包见 package.json 文件，具体版本号见 package-lock.json 文件。
-## 如何搭建和我一模一样的博客？
- <p align="center">项目源于<a href="https://github.com/pudongping/pudongping.github.io">Alex's blog</p>
- 具体的可以参考源项目的作者
+
+        
    
  ## 特性
 
