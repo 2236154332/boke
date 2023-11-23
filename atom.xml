@@ -563,11 +563,11 @@
     <category term="ElasticSearch" scheme="https://pudongping.github.io/categories/ElasticSearch/"/>
     
     
-    <category term="ElasticSearch" scheme="https://pudongping.github.io/tags/ElasticSearch/"/>
-    
     <category term="Go" scheme="https://pudongping.github.io/tags/Go/"/>
     
     <category term="Golang" scheme="https://pudongping.github.io/tags/Golang/"/>
+    
+    <category term="ElasticSearch" scheme="https://pudongping.github.io/tags/ElasticSearch/"/>
     
   </entry>
   
